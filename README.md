@@ -3,6 +3,7 @@
 - Aprendiendo Docker Basico
 
 ## Comandos Basicos
+
 - `docker --version`: Muestra la version de Docker instalada.
 - `docker pull <imagen>`: Descarga una imagen de Docker desde Docker Hub.
 - `docker images`: Lista todas las imagenes descargadas en el sistema.
